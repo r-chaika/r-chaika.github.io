@@ -1,36 +1,36 @@
 ---
 layout: archive
-title: "Publications"
+title: "Papers & Presentations"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>Paper</h2>
+<ul>
+  <li><b>Hatta, H.</b>, Ueda, R., Ashida, H., & Abe, N. (2022). <a href="https://www.sciencedirect.com/science/article/pii/S002210312200004X" target="_blank">Are implicit attitudes toward dishonesty associated with self-serving dishonesty? Implications for the reliability of the IAT.</a> <i>Journal of Experimental Social Psychology, 100</i>, 104285.</li>
+</ul>
 
-{% include base_path %}
+<h2>Presentations</h2>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h3>2024</h3>
+<ul>
+  <li><b>Hatta, H.</b>, Nakai, R., & Yanagisawa, K. Lonely people post idiosyncratic pictures on Instagram. The 70th Annual Convention of the Japanese Group Dynamics Association, Saitama, August.</li>
+</ul>
 
+<h3>2023</h3>
+<ul>
+  <li>Kometani, A., Nakai, R., <b>Hatta, H.</b>, Sugiura, H., Yanagisawa, K., & Abe, N. Neural representations related to social acceptance and threat by multivoxel pattern analysis. The 69th Annual Convention of the Japanese Group Dynamics Association, Kochi, September.</li>
+</ul>
 
+<h3>2022</h3>
+<ul>
+  <li>Yanagisawa, K., <b>Hatta, H.</b>, Nakai, R., Sugiura, H., & Abe, N. Neural representations of occupational stigma by DISTATIS. The 63rd Annual Convention of the Japanese Social Psychological Association, Kyoto, September.</li>
+  <li>Yanagisawa, K., Sugiura, H., Kashima, S. E., Nakashima, K., <b>Hatta, H.</b>, Kato, J., & Nakai, R. Regional differences in loneliness associated with the spread of COVID-19. The 86th Annual Convention of the Japanese Psychological Association, Tokyo, September.</li>
+</ul>
 
+<h3>2021</h3>
+<ul>
+  <li><b>Hatta, H.</b>, Abe, N., Nakai, R., & Yanagisawa, K. Psychological and neural representations of place value. The 85th Annual Convention of the Japanese Psychological Association, online, September.</li>
+  <li><b>Hatta, H.</b>, Ueda, R., Ashida, H., & Abe, N. Implicit attitudes toward dishonesty are associated with selfish dishonesty. The Annual Convention of the American Psychological Society 2021, online, May.</li>
+  <li><b>Hatta, H.</b>, Ueda, R., Ashida, H., & Abe, N. Implicit attitudes toward dishonesty as a predictor of self-serving dishonesty. The 4th Tohoku-NTU International Symposium on Interdisciplinary AI and Human Studies, online, March.</li>
+</ul>
