@@ -8,7 +8,8 @@ author_profile: true
 ## Career
 
 ### Positions
-- Project-specific Assistant Professor, Graduate School of Humanities, Kobe University (2025–Present)
+- PhD student, Department of Psychology, University of Bath (2025-Present)
+- Project-specific Assistant Professor, Graduate School of Humanities, Kobe University (2025)
 - Research Fellow, Graduate School of Humanities, Kobe University (2024–2025)
 - Adviser for Political and Economic Affairs, Embassy of Japan in Estonia (2022-2024)
 
@@ -32,8 +33,12 @@ author_profile: true
   [Website](https://kidd000.github.io/index_en.html)
 - Atsushi Kometani, Ph.D. (Yamato University)  
   [researchmap](https://researchmap.jp/akometani/)
+- Harish Tayyar Madabushi, Ph.D. (University of Bath)  
+  [Website](https://www.harishtayyarmadabushi.com/)
 - Ryusuke Nakai, Ph.D. (Kyoto University)  
   [researchmap](https://researchmap.jp/7000010548)
+- Laura G. E. Smith, Ph.D. (University of Bath)  
+  [Website](https://lauragesmith.com/)
 - Hitomi Sugiura, Ph.D. (Kindai University)  
   [researchmap](https://researchmap.jp/7000018377)
 - Yukari Jessica Tham, Ph.D. (Kobe University)  
